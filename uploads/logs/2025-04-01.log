@@ -1,0 +1,18 @@
+[01-Apr-2025 00:00:01 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 04:40:51 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 05:33:24 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[01-Apr-2025 05:33:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[01-Apr-2025 06:33:16 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 07:34:39 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 10:19:17 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 10:53:42 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 14:01:46 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 15:17:39 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 15:24:26 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 16:46:45 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 18:11:02 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[01-Apr-2025 18:11:02 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[01-Apr-2025 18:11:02 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[01-Apr-2025 20:30:49 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 20:55:34 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[01-Apr-2025 23:33:47 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50

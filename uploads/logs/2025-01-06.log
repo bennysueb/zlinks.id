@@ -1,0 +1,129 @@
+[06-Jan-2025 00:32:56 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:28:38 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:22 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:23 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:27 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:27 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:27 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:28 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 02:31:28 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 04:26:48 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 04:26:49 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 04:28:54 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 04:28:55 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 04:29:05 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/basic_wrapper.php on line 10
+[06-Jan-2025 04:29:19 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[06-Jan-2025 04:29:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[06-Jan-2025 04:29:19 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:39 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:39 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:53 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[06-Jan-2025 04:29:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[06-Jan-2025 04:29:53 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:53 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:58 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:29:59 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:30:35 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:30:36 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\Referrals->index()
+#1 /home/u6583521/public_html/zlinks.id/app/core/App.php(229): call_user_func_array()
+#2 /home/u6583521/public_html/zlinks.id/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php on line 28
+[06-Jan-2025 04:30:52 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:30:53 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:31:53 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:31:53 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:31:55 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:31:55 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/partials/internal_notifications_js.php on line 7
+[06-Jan-2025 04:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\Referrals->index()
+#1 /home/u6583521/public_html/zlinks.id/app/core/App.php(229): call_user_func_array()
+#2 /home/u6583521/public_html/zlinks.id/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php on line 28
+[06-Jan-2025 04:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\Referrals->index()
+#1 /home/u6583521/public_html/zlinks.id/app/core/App.php(229): call_user_func_array()
+#2 /home/u6583521/public_html/zlinks.id/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php on line 28
+[06-Jan-2025 05:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\Referrals->index()
+#1 /home/u6583521/public_html/zlinks.id/app/core/App.php(229): call_user_func_array()
+#2 /home/u6583521/public_html/zlinks.id/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/u6583521/public_html/zlinks.id/app/controllers/Referrals.php on line 28
+[06-Jan-2025 06:41:51 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:08:42 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:08:42 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:28 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:29 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:30 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:31 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:31 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:32 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:33 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:34 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:34 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:35 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:35 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:36 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:38 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:39 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:39 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:40 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:16:40 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:57:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 10:57:27 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 11:20:05 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 13:30:49 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 14:08:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/l/biolink_wrapper.php on line 10
+[06-Jan-2025 14:08:28 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[06-Jan-2025 14:08:28 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[06-Jan-2025 14:08:28 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[06-Jan-2025 14:44:28 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 14:50:18 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 14:50:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:14 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:17 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:18 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:19 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:21 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:22 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:22 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:23 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:23 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:24 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:25 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:02:26 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 18:14:33 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/l/biolink_wrapper.php on line 10
+[06-Jan-2025 18:14:35 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[06-Jan-2025 18:14:35 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[06-Jan-2025 18:14:35 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[06-Jan-2025 23:15:56 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10
+[06-Jan-2025 23:16:17 UTC] PHP Warning:  Undefined property: stdClass::$is_enabled in /home/u6583521/public_html/zlinks.id/themes/altum/views/wrapper.php on line 10

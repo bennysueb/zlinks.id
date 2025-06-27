@@ -1,0 +1,51 @@
+[31-Mar-2025 00:31:55 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 04:31:19 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[31-Mar-2025 04:31:19 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[31-Mar-2025 04:31:19 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[31-Mar-2025 04:32:19 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 05:06:20 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:06:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:30:48 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:30:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:44:29 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:44:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 05:57:55 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 06:00:11 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 06:10:52 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 08:13:10 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 09:28:31 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 10:19:52 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 12:29:01 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 12:31:54 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 12:42:16 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 12:55:52 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 13:54:28 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 13:54:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 13:57:21 UTC] PHP Warning:  Undefined property: stdClass::$exclusive_personal_api_keys in /home/u6583521/public_html/zlinks.id/themes/altum/views/account-preferences/index.php on line 29
+[31-Mar-2025 14:00:42 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 14:03:57 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:03:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:04:15 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:04:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:04:26 UTC] PHP Warning:  Undefined property: stdClass::$domains in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:04:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u6583521/public_html/zlinks.id/themes/altum/views/links/links_content.php on line 167
+[31-Mar-2025 14:20:55 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 14:21:00 UTC] PHP Warning:  Undefined property: stdClass::$contact_collector in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:21:00 UTC] PHP Warning:  Undefined property: stdClass::$twitter_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:21:00 UTC] PHP Warning:  Undefined property: stdClass::$vk_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:21:58 UTC] PHP Warning:  Undefined property: stdClass::$contact_collector in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:21:58 UTC] PHP Warning:  Undefined property: stdClass::$twitter_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:21:58 UTC] PHP Warning:  Undefined property: stdClass::$vk_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:23:10 UTC] PHP Warning:  Undefined property: stdClass::$contact_collector in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:23:10 UTC] PHP Warning:  Undefined property: stdClass::$twitter_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 14:23:10 UTC] PHP Warning:  Undefined property: stdClass::$vk_video in /home/u6583521/public_html/zlinks.id/themes/altum/views/link/settings/biolink_link_create_modal.php on line 32
+[31-Mar-2025 15:07:45 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 15:34:04 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 16:02:27 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 16:02:30 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 16:08:38 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 16:18:38 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 18:36:10 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 18:41:42 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 20:13:22 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[31-Mar-2025 20:22:28 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50

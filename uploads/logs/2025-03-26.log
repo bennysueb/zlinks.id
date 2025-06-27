@@ -1,0 +1,63 @@
+[26-Mar-2025 00:54:29 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 00:58:46 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 02:33:30 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/u6583521/public_html/zlinks.id/plugins/pwa/views/partials/pwa.php on line 5
+[26-Mar-2025 02:53:40 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 03:47:10 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 03:47:10 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 03:47:10 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 05:06:11 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 05:25:20 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 06:40:22 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 08:23:19 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 08:25:37 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 08:25:37 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 08:25:37 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 09:21:08 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 09:21:08 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 09:21:08 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 09:21:25 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 09:21:25 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 09:21:25 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 13:28:11 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 13:28:11 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 13:28:11 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 14:18:25 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 14:18:25 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 14:18:25 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 14:20:46 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 14:20:46 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 14:20:46 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 16:35:33 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 16:41:23 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 17:41:54 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 18:16:37 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 18:16:37 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 18:16:37 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 18:16:57 UTC] PHP Warning:  Undefined property: stdClass::$force_splash_page_on_pdf_document in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 113
+[26-Mar-2025 18:16:57 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 18:16:57 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 18:16:57 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 18:17:58 UTC] PHP Warning:  Undefined property: stdClass::$force_splash_page_on_pdf_document in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 113
+[26-Mar-2025 18:17:58 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 18:17:58 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 18:17:58 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 18:18:17 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 18:18:17 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 18:18:17 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 18:18:23 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 18:18:23 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 18:18:23 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 19:13:13 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 21:26:56 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 21:39:58 UTC] PHP Warning:  Undefined array key "is_newsletter_subscribed" in /home/u6583521/public_html/zlinks.id/app/controllers/Register.php on line 50
+[26-Mar-2025 22:46:07 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 22:46:07 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 22:46:07 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 22:46:30 UTC] PHP Warning:  Undefined property: stdClass::$force_splash_page_on_pdf_document in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 113
+[26-Mar-2025 22:46:30 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 22:46:30 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 22:46:30 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208
+[26-Mar-2025 22:46:32 UTC] PHP Warning:  Undefined property: stdClass::$force_splash_page_on_pdf_document in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 113
+[26-Mar-2025 22:46:32 UTC] PHP Warning:  Undefined property: stdClass::$splash_page_id in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 114
+[26-Mar-2025 22:46:32 UTC] PHP Warning:  Undefined property: stdClass::$password in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 179
+[26-Mar-2025 22:46:32 UTC] PHP Warning:  Undefined property: stdClass::$sensitive_content in /home/u6583521/public_html/zlinks.id/app/controllers/l/Link.php on line 208

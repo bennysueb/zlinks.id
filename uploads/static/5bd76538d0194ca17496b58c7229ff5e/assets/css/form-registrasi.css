@@ -1,0 +1,452 @@
+:root {
+    --ztc-text-text-1: #fff;
+    --ztc-text-text-2: #1A1719;
+    --ztc-text-text-3: #544E51;
+    --ztc-text-text-4: #FFBA00;
+    --ztc-text-text-5: #032530;
+    --ztc-text-text-6: #C0F037;
+    --ztc-text-text-7: #443E3E;
+    --ztc-text-text-8: #131E20;
+    --ztc-text-text-9: #404040;
+    --ztc-text-text-10: #006831;
+    --ztc-text-text-11: #002466;
+    --ztc-text-text-12: #363D4A;
+    --ztc-text-text-13: #2E4DFD;
+    --ztc-text-text-14: #FF6700;
+    --ztc-text-text-15: #FC226A;
+    --ztc-text-text-16: #FF2D55;
+    --ztc-text-text-17: #FD4E1A;
+    --ztc-text-text-18: #0D0400;
+    --ztc-text-text-19: #44403E;
+    --ztc-text-text-20: #4AF8BA;
+    --ztc-text-text-21: #0d512c;
+    --ztc-text-text-21: #41852d;
+    --ztc-text-text-22: #aaaaaa;
+    --ztc-bg-bg-1: #fff;
+    --ztc-bg-bg-2: #1A1719;
+    --ztc-bg-bg-3: #FFBA00;
+    --ztc-bg-bg-4: #032530;
+    --ztc-bg-bg-5: #C0F037;
+    --ztc-bg-bg-6: #131E20;
+    --ztc-bg-bg-7: #006831;
+    --ztc-bg-bg-8: #002466;
+    --ztc-bg-bg-9: #2E4DFD;
+    --ztc-bg-bg-10: #FF6700;
+    --ztc-bg-bg-11: #FC226A;
+    --ztc-bg-bg-12: #FF2D55;
+    --ztc-bg-bg-13: #0D0400;
+    --ztc-bg-bg-14: #4AF8BA;
+    --ztc-bg-bg-15: #0d512c;
+    --ztc-bg-bg-16: #41852d;
+    --ztc-bg-bg-17: #FBF9F4;
+    --ztc-border-border-1: #E5E7EB;
+    --ztc-border-border-2: #dfdcdc;
+    --ztc-font-size-font-s10: 10px;
+    --ztc-font-size-font-s12: 12px;
+    --ztc-font-size-font-s14: 14px;
+    --ztc-font-size-font-s16: 16px;
+    --ztc-font-size-font-s18: 18px;
+    --ztc-font-size-font-s20: 20px;
+    --ztc-font-size-font-s22: 22px;
+    --ztc-font-size-font-s24: 24px;
+    --ztc-font-size-font-s26: 26px;
+    --ztc-font-size-font-s28: 28px;
+    --ztc-font-size-font-s30: 30px;
+    --ztc-font-size-font-s32: 32px;
+    --ztc-font-size-font-s34: 34px;
+    --ztc-font-size-font-s36: 36px;
+    --ztc-font-size-font-s38: 38px;
+    --ztc-font-size-font-s40: 40px;
+    --ztc-font-size-font-s42: 42px;
+    --ztc-font-size-font-s44: 44px;
+    --ztc-font-size-font-s46: 46px;
+    --ztc-font-size-font-s48: 48px;
+    --ztc-font-size-font-s50: 50px;
+    --ztc-font-size-font-s52: 52px;
+    --ztc-font-size-font-s54: 54px;
+    --ztc-font-size-font-s56: 56px;
+    --ztc-font-size-font-s58: 58px;
+    --ztc-font-size-font-s60: 60px;
+    --ztc-font-size-font-s62: 62px;
+    --ztc-font-size-font-s64: 64px;
+    --ztc-font-size-font-s66: 66px;
+    --ztc-font-size-font-s68: 68px;
+    --ztc-font-size-font-s70: 70px;
+    --ztc-font-size-font-s10: 10px;
+    --ztc-font-size-font-s12: 12px;
+    --ztc-font-size-font-s14: 14px;
+    --ztc-font-size-font-s16: 16px;
+    --ztc-font-size-font-s18: 18px;
+    --ztc-font-size-font-s20: 20px;
+    --ztc-font-size-font-s22: 22px;
+    --ztc-font-size-font-s24: 24px;
+    --ztc-font-size-font-s26: 26px;
+    --ztc-font-size-font-s28: 28px;
+    --ztc-font-size-font-s30: 30px;
+    --ztc-font-size-font-s32: 32px;
+    --ztc-font-size-font-s34: 34px;
+    --ztc-font-size-font-s36: 36px;
+    --ztc-font-size-font-s38: 38px;
+    --ztc-font-size-font-s40: 40px;
+    --ztc-font-size-font-s42: 42px;
+    --ztc-font-size-font-s44: 44px;
+    --ztc-font-size-font-s46: 46px;
+    --ztc-font-size-font-s48: 48px;
+    --ztc-font-size-font-s50: 50px;
+    --ztc-font-size-font-s52: 52px;
+    --ztc-font-size-font-s54: 54px;
+    --ztc-font-size-font-s56: 56px;
+    --ztc-font-size-font-s58: 58px;
+    --ztc-font-size-font-s60: 60px;
+    --ztc-font-size-font-s62: 62px;
+    --ztc-font-size-font-s64: 64px;
+    --ztc-font-size-font-s66: 66px;
+    --ztc-font-size-font-s68: 68px;
+    --ztc-font-size-font-s70: 70px;
+    --ztc-specing-height6: 6px;
+    --ztc-specing-height8: 8px;
+    --ztc-specing-height10: 10px;
+    --ztc-specing-height12: 12px;
+    --ztc-specing-height14: 114px;
+    --ztc-specing-height16: 16px;
+    --ztc-specing-height18: 18px;
+    --ztc-specing-height20: 20px;
+    --ztc-specing-height22: 22px;
+    --ztc-specing-height24: 24px;
+    --ztc-specing-height26: 26px;
+    --ztc-specing-height28: 28px;
+    --ztc-specing-height30: 30px;
+    --ztc-specing-height32: 32px;
+    --ztc-specing-height34: 34px;
+    --ztc-specing-height36: 36px;
+    --ztc-specing-height38: 38px;
+    --ztc-specing-height40: 40px;
+    --ztc-specing-height42: 42px;
+    --ztc-specing-height44: 44px;
+    --ztc-specing-height46: 46px;
+    --ztc-specing-height48: 48px;
+    --ztc-specing-height50: 50px;
+    --ztc-specing-height52: 52px;
+    --ztc-specing-height54: 54px;
+    --ztc-specing-height56: 56px;
+    --ztc-specing-height58: 58px;
+    --ztc-specing-height60: 60px;
+    --ztc-specing-height70: 70px;
+    --ztc-specing-height80: 80px;
+    --ztc-specing-height90: 90px;
+    --ztc-specing-height100: 100px;
+    --ztc-specing-height110: 110px;
+    --ztc-specing-height120: 120px;
+    --ztc-specing-height130: 130px;
+    --ztc-weight-regular: 400;
+    --ztc-weight-medium: 500;
+    --ztc-weight-semibold: 600;
+    --ztc-weight-bold: 700;
+    --ztc-weight-black: 800;
+    --ztc-family-font1: 'Space Grotesk', sans-serif;
+    --ztc-family-font2: 'Figtree', sans-serif;
+    --ztc-family-font3: "Plus Jakarta Sans", sans-serif;
+}
+
+
+
+
+
+
+.register-section-area {
+    position: relative;
+    z-index: 1;
+    background: #F1F1F1;
+}
+
+.pure-control-group {
+    position: relative;
+    border-radius: 8px;
+    padding-top: 10px;
+}
+
+.register-section-area .pure-control-group label {
+    color: var(--ztc-text-text-18);
+    font-family: var(--ztc-family-font3);
+    font-size: var(--ztc-font-size-font-s16);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    /* 100% */
+}
+
+.steelytoeNavigation {
+    display: none;
+}
+
+.fieldGroups {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-inline: 10px;
+}
+
+.fieldGroups .pure-control-group {
+    width: 100%;
+}
+
+.STformInput {
+    width: 100%;
+    color: var(--ztc-text-text-18);
+    font-family: var(--ztc-family-font3);
+    font-size: var(--ztc-font-size-font-s14);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 28px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: #ffffff !important;
+    margin-top: 16px;
+}
+
+.pure-form select {
+    width: 100%;
+    font-family: var(--ztc-family-font3);
+    font-size: var(--ztc-font-size-font-s16);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+
+.STformInput::placeholder {
+    color: var(--ztc-text-text-22);
+    font-family: var(--ztc-family-font3);
+    font-size: var(--ztc-font-size-font-s14);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    opacity: 80%;
+}
+
+
+.register-section-area .pure-control-group .STformInput pure-input-1::-moz-placeholder {
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    opacity: 80%;
+}
+
+.register-section-area .pure-control-group .STformInput pure-input-1::placeholder {
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    opacity: 80%;
+}
+
+.register-section-area .pure-control-group .STformInput textarea {
+    width: 100%;
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.1);
+    padding: 16px;
+    height: 140px;
+    margin-top: 16px;
+}
+
+.register-section-area .pure-control-group .STformInput textarea::-moz-placeholder {
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    opacity: 80%;
+}
+
+.register-section-area .pure-control-group .STformInput textarea::placeholder {
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    opacity: 80%;
+}
+
+.pure-button-primary {
+    color: var(--ztc-text-text-2);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s20) !important;
+    font-style: normal;
+    font-weight: var(--ztc-weight-bold);
+    line-height: 20px;
+    text-transform: uppercase;
+    transition: all 0.4s;
+    position: relative;
+    z-index: 1;
+    background: var(--ztc-bg-bg-10) !important;
+    padding: 16px 20px !important;
+    display: inline-block;
+    border-radius: 8px;
+    width: 100%;
+    margin: 20px 0 0 0;
+}
+
+.pure-button-primary:hover {
+    transition: all 0.4s;
+    color: var(--ztc-text-text-1);
+}
+
+.pure-button-primary:hover::before {
+    width: 100%;
+    transition: all 0.4s;
+    visibility: visible;
+    opacity: 1;
+    left: 0;
+    top: 0;
+}
+
+.pure-button-primary:hover::after {
+    background: var(--ztc-bg-bg-1);
+    opacity: 0.1;
+    transition: all 0.4s;
+}
+
+.pure-button-primary::after {
+    position: absolute;
+    content: "";
+    height: 36px;
+    width: 36px;
+    transition: all 0.4s;
+    border-radius: 50%;
+    background: var(--ztc-bg-bg-2);
+    opacity: 0.1;
+    left: 8px;
+    top: 8px;
+}
+
+.pure-button-primary::before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 1px;
+    transition: all 0.4s;
+    background: var(--ztc-bg-bg-2);
+    left: 50%;
+    top: 0;
+    border-radius: 7px;
+    visibility: hidden;
+    opacity: 0;
+    z-index: -1;
+}
+
+.register-section-area .pure-control-group .pure-button-primary button {
+    border: none;
+    outline: none;
+}
+
+.register-section-area .register-header {
+    padding: 0 0 0 50px;
+}
+
+@media (max-width: 767px) {
+    .register-section-area .register-header {
+        padding: 0;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .register-section-area .register-header {
+        padding: 0;
+        margin-top: 30px;
+    }
+}
+
+.register-section-area .register-header .contact-author-box {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.register-section-area .register-header .contact-author-box .icons {
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 60px;
+    display: inline-block;
+    transition: all 0.4s;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.register-section-area .register-header .contact-author-box .icons img {
+    filter: brightness(0) invert(1);
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
+
+.register-section-area .register-header .contact-author-box .text {
+    padding-left: 14px;
+}
+
+.register-section-area .register-header .contact-author-box .text h4 {
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-bold);
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.register-section-area .register-header .contact-author-box .text a {
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s18);
+    font-style: normal;
+    font-weight: var(--ztc-weight-medium);
+    line-height: 18px;
+    display: inline-block;
+    transition: all 0.4s;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .register-section-area .img1 {
+        height: 330px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .register-section-area .img1 {
+        height: 330px;
+        margin-bottom: 30px;
+    }
+}
+
+.register-section-area .img1 img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.register-section-area .mapouter .gmap_canvas iframe {
+    width: 100%;
+    height: 333px;
+    border-radius: 8px;
+}
